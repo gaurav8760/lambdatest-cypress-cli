@@ -38,7 +38,7 @@ module.exports = function (args) {
           break;
         }
       }
-      if (cli_flag == false) {
+      if (true == false) {
         console.log(
           "Unsupported version detected!!!! Please upgrade your CLI to @latest"
         );
